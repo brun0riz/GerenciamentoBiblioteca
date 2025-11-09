@@ -1,0 +1,84 @@
+[2025-11-09 10:03:57] [SYSTEM] ServicoEmprestimo iniciado com dependências injetadas.
+[2025-11-09 10:03:57] [ACERVO] Livro adicionado: O Hobbit
+[2025-11-09 10:03:57] [ACERVO] Livro adicionado: O Senhor dos Anéis
+[2025-11-09 10:03:57] [CLIENTE] Cliente cadastrado: Aragorn
+[2025-11-09 10:03:57] [CLIENTE] Cliente cadastrado: Gandalf
+[2025-11-09 10:03:57] [CLIENTE] Cliente cadastrado: Bilbo
+[2025-11-09 10:03:57] [ERRO] Falha no empréstimo: Livro 'A Sociedade do Anel' não foi encontrado.
+[2025-11-09 10:03:57] [ERRO] Falha no empréstimo: Cliente com ID 999 não foi encontrado.
+[2025-11-09 10:03:57] [EMPRESTIMO] Sucesso: Aragorn pegou o livro 'O Hobbit'.
+[2025-11-09 10:03:57] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Criada nova lista de espera para 'O Hobbit'.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Gandalf foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 10:03:57] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Bilbo foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 10:03:57] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 10:03:57] [NOTIFICACAO] Cliente 'Gandalf' (ID: 102) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 10:03:57] [EMPRESTIMO] Sucesso: Gandalf pegou o livro 'O Hobbit'.
+[2025-11-09 10:03:57] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Bilbo foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 10:03:57] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 10:03:57] [NOTIFICACAO] Cliente 'Bilbo' (ID: 103) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 10:03:57] [LISTA DE ESPERA] A lista de espera por 'O Hobbit' agora está vazia e foi removida.
+[2025-11-09 10:03:57] [EMPRESTIMO] Sucesso: Bilbo pegou o livro 'O Hobbit'.
+[2025-11-09 10:03:57] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 10:03:57] [ERRO] Falha na devolução: Não foi encontrado empréstimo ativo para 'O Hobbit'.
+[2025-11-09 10:03:57] [SYSTEM] Logger desligando e fechando arquivo.
+[2025-11-09 13:51:42] [SYSTEM] ServicoEmprestimo iniciado com dependências injetadas.
+[2025-11-09 13:51:42] [ACERVO] Livro adicionado: O Hobbit
+[2025-11-09 13:51:42] [ACERVO] Livro adicionado: O Senhor dos Anéis
+[2025-11-09 13:51:42] [CLIENTE] Cliente cadastrado: Aragorn
+[2025-11-09 13:51:42] [CLIENTE] Cliente cadastrado: Gandalf
+[2025-11-09 13:51:42] [CLIENTE] Cliente cadastrado: Bilbo
+[2025-11-09 13:51:42] [ERRO] Falha no empréstimo: Livro 'A Sociedade do Anel' não foi encontrado.
+[2025-11-09 13:51:42] [ERRO] Falha no empréstimo: Cliente com ID 999 não foi encontrado.
+[2025-11-09 13:51:42] [EMPRESTIMO] Sucesso: Aragorn pegou o livro 'O Hobbit'.
+[2025-11-09 13:51:42] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Criada nova lista de espera para 'O Hobbit'.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Gandalf foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 13:51:42] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Bilbo foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 13:51:42] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 13:51:42] [NOTIFICACAO] Cliente 'Gandalf' (ID: 102) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 13:51:42] [EMPRESTIMO] Sucesso: Gandalf pegou o livro 'O Hobbit'.
+[2025-11-09 13:51:42] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Bilbo foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 13:51:42] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 13:51:42] [NOTIFICACAO] Cliente 'Bilbo' (ID: 103) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 13:51:42] [LISTA DE ESPERA] A lista de espera por 'O Hobbit' agora está vazia e foi removida.
+[2025-11-09 13:51:42] [EMPRESTIMO] Sucesso: Bilbo pegou o livro 'O Hobbit'.
+[2025-11-09 13:51:42] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 13:51:42] [ERRO] Falha na devolução: Não foi encontrado empréstimo ativo para 'O Hobbit'.
+[2025-11-09 13:51:42] [SYSTEM] Logger desligando e fechando arquivo.
+[2025-11-09 14:05:48] [SYSTEM] ServicoEmprestimo iniciado com dependências injetadas.
+[2025-11-09 14:05:48] [ACERVO] Livro adicionado: O Hobbit
+[2025-11-09 14:05:48] [ACERVO] Livro adicionado: O Senhor dos Anéis
+[2025-11-09 14:05:48] [CLIENTE] Cliente cadastrado: Aragorn
+[2025-11-09 14:05:48] [CLIENTE] Cliente cadastrado: Gandalf
+[2025-11-09 14:05:48] [CLIENTE] Cliente cadastrado: Bilbo
+[2025-11-09 14:05:48] [ERRO] Falha no empréstimo: Livro 'A Sociedade do Anel' não foi encontrado.
+[2025-11-09 14:05:48] [ERRO] Falha no empréstimo: Cliente com ID 999 não foi encontrado.
+[2025-11-09 14:05:48] [EMPRESTIMO] Sucesso: Aragorn pegou o livro 'O Hobbit'.
+[2025-11-09 14:05:48] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Criada nova lista de espera para 'O Hobbit'.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Gandalf foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 14:05:48] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Bilbo foi adicionado à fila por 'O Hobbit'.
+[2025-11-09 14:05:48] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 14:05:48] [NOTIFICACAO] Cliente 'Gandalf' (ID: 102) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 14:05:48] [EMPRESTIMO] Sucesso: Gandalf pegou o livro 'O Hobbit'.
+[2025-11-09 14:05:48] [AVISO] Livro 'O Hobbit' está indisponível.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Bilbo já estava na fila por 'O Hobbit'.
+[2025-11-09 14:05:48] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] Livro 'O Hobbit' ficou disponível. Notificando o próximo da fila...
+[2025-11-09 14:05:48] [NOTIFICACAO] Cliente 'Bilbo' (ID: 103) foi notificado sobre a disponibilidade do livro 'O Hobbit'.
+[2025-11-09 14:05:48] [LISTA DE ESPERA] A lista de espera por 'O Hobbit' agora está vazia e foi removida.
+[2025-11-09 14:05:48] [EMPRESTIMO] Sucesso: Bilbo pegou o livro 'O Hobbit'.
+[2025-11-09 14:05:48] [DEVOLUCAO] Sucesso: O livro 'O Hobbit' foi devolvido.
+[2025-11-09 14:05:48] [ERRO] Falha na devolução: Não foi encontrado empréstimo ativo para 'O Hobbit'.
+[2025-11-09 14:05:48] [SYSTEM] Logger desligando e fechando arquivo.
