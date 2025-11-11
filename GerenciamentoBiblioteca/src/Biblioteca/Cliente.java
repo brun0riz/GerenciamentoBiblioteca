@@ -48,7 +48,6 @@ public class Cliente implements Observer {
 
         if (o == null || getClass() != o.getClass()) return false;
 
-        // 3. Converte o objeto e compara o ID
         Cliente cliente = (Cliente) o;
         return this.idUsuario == cliente.idUsuario;
     }
@@ -57,4 +56,5 @@ public class Cliente implements Observer {
     public int hashCode() {
         return java.util.Objects.hash(idUsuario);
     }
+
 }
